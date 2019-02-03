@@ -3,12 +3,20 @@
  */
 
  body {
+     background-color: #CCCCCC;
      margin: 0;
      padding: 0;
  }
 
- .wrapper .container {
-    max-width: 115rem;
+ .wrapper {
+    /*max-width: 115rem;*/
+    margin: 0 auto;
+    max-width: 1100px;
+    background-color: white;
+}
+
+.container {
+    padding: 0;
 }
 
 .site-header {
@@ -31,6 +39,12 @@
 
 .post-title {
     display: block;
+    text-align: center;
+}
+
+.post {
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
 
 /**
@@ -48,7 +62,7 @@
  */
 .site-footer {
     border-top: 1px solid $grey-color-light;
-    margin: 2rem 0;
+    margin: 2rem 1rem;
     padding: 2rem 0;
 }
 
