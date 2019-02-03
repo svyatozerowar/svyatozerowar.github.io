@@ -51,9 +51,13 @@
  * override column size for mobile
  */
 @media (max-width: 40.0rem) {
-    .row .column.column-33, .row .column.column-34 {
+    .row .column.column-33, .row .column.column-34, .row .column.column-25 {
         flex: 0 0 100%;
         max-width: 100%;
+        justify-content: center;
+    }
+    .preview-panel {
+        text-align: center;
     }
 }
 
