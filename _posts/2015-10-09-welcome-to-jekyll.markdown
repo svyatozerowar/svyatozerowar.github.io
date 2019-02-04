@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Иванов Иван Иванович"
-yearslife: "1930-1973"
+yearslife: "1920-1973"
 date:   2015-10-09 15:39:40
 preview: holder.js/250x300?auto=yes
 ---
