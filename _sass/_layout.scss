@@ -50,8 +50,9 @@
     padding-right: 1rem;
 }
 
-.post-content p img {
+.post-p img {
     float: right;
+    max-width: 40%;
     margin-left: 1rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
@@ -60,7 +61,7 @@
 /**
  * override column size for mobile
  */
-@media (max-width: 40.0rem) {
+@media (max-width: 30.0rem) {
     .row .column.column-33, .row .column.column-34, .row .column.column-25 {
         flex: 0 0 100%;
         max-width: 100%;
@@ -68,6 +69,15 @@
     }
     .preview-panel {
         text-align: center;
+    }
+    .post-p img {
+        float: none;
+        max-width: 100%;
+        margin: 0;
+    }
+    .post-p {
+        text-align: center;
+        max-width: 100%;
     }
 }
 
