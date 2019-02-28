@@ -18,6 +18,15 @@
     background-color: #ffffff;
 }
 
+ul {
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+
+img[src*="#thumbnail"] {
+    height:200px;
+ }
+
 .container {
     padding: 0;
 }
@@ -85,6 +94,7 @@
  * Site footer
  */
 .site-footer {
+    clear: both;
     border-top: 1px solid $grey-color-light;
     margin: 2rem 1rem;
     padding: 2rem 0;

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Иванов Иван Иванович"
+yearslife: "1914-"
+date: 2019-02-22 12:03:10
+preview: /img/image2.jpg
+---
+
+текст
+
