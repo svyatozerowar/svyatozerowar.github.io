@@ -16,3 +16,4 @@ photo: /img/NesterovFO.jpg
 
 [<img src="/img/ydostoverenie.jpg#thumbnail" alt="Удостоверение к медали 	&laquo;Ветеран труда&raquo;" title="Удостоверение к медали 	&laquo;Ветеран труда&raquo;"  style="clear: both;">](/img/ydostoverenie.jpg#thumbnail)
 
+[<img src="/img/VeteranKF.jpg#thumbnail" alt="Ветеран Карельского фронта" title="Ветеран Карельского фронта"  style="clear: both;">](/img/VeteranKF.jpg#thumbnail)
