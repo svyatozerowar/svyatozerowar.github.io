@@ -14,6 +14,5 @@ photo: /img/NesterovFO.jpg
 
 [<img src="/img/ordenskayaknizhka.jpg#thumbnail" alt="Орденская книжка" title="Орденская книжка" style="float: left; margin-right: 10px; margin-bottom: 10px;">](/img/ordenskayaknizhka.jpg#thumbnail)
 
-[<img src="/img/ydostoverenie.jpg#thumbnail" alt="Удостоверение к медали 	&laquo;Ветеран труда&raquo;" title="Удостоверение к медали 	&laquo;Ветеран труда&raquo;"  style="clear: both;">](/img/ydostoverenie.jpg#thumbnail)
-
-[<img src="/img/VeteranKF.jpg#thumbnail" alt="Ветеран Карельского фронта" title="Ветеран Карельского фронта"  style="clear: both;">](/img/VeteranKF.jpg#thumbnail)
+[<img src="/img/ydostoverenie.jpg#thumbnail" alt="Удостоверение к медали 	&laquo;Ветеран труда&raquo;" title="Удостоверение к медали 	&laquo;Ветеран труда&raquo;" style="margin-bottom: 10px; margin-righth: 10px;">](/img/ydostoverenie.jpg#thumbnail)
+[<img src="/img/VeteranKF.jpg#thumbnail" alt="Ветеран Карельского фронта" title="Ветеран Карельского фронта">](/img/VeteranKF.jpg#thumbnail)
