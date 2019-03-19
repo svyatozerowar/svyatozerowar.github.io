@@ -12,13 +12,13 @@ layout: default
     {% assign sortedposts = posts | split: '|' | sort %}
     {% for post in sortedposts offset:1 %}
       {% assign postitems = post | split: '#' %}
-      {% assign pi = postitems[1] | strip %}
-      {% if pi == page.url and pre_url != "" %}
+      {% assign posturl = postitems[1] | strip %}
+      {% if posturl == page.url and pre_url != "" %}
         <a class="nav-item" href="{{ pre_url | prepend: site.baseurl }}">&laquo; Назад</a>
       {% endif %}
       {% assign pre_url = postitems[1] %}
       {% assign idx = forloop.index | plus: 1 %}
-      {% if pi == page.url and sortedposts[idx] != null %}
+      {% if posturl == page.url and sortedposts[idx] != null %}
         {% assign postnext = sortedposts[idx] | split: '#' %}
         <a class="nav-item" href="{{ postnext[1] | prepend: site.baseurl }}">Вперед &raquo;</a>
       {% endif %}
