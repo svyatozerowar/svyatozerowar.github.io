@@ -52,6 +52,10 @@ img[src*="#thumbnail"] {
     padding: 0 1rem 1rem 1rem;
 }
 
+.post-nav > .nav-item {
+    padding-top: 0;
+}
+
 .post-title {
     display: block;
     text-align: center;
