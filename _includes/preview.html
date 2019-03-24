@@ -11,8 +11,8 @@
             <div class="preview-panel">
                 <a href="{{ postitems[1] | prepend: site.baseurl }}">
                     <img src="{{ postitems[2] }}">
+                    <div class="post-title">{{ postitems[0] }} <br /> {{ postitems[3] }}</div>
                 </a>
-                <div class="post-title">{{ postitems[0] }} <br /> {{ postitems[3] }}</div>
            </div>
         </div>
     {% cycle 'end row' : '', '', '', '</div>' %}
