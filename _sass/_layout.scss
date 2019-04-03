@@ -56,7 +56,17 @@ img[src*="#thumbnail"] {
 }
 
 .search-field {
+    background-image: url(/img/search.png);   
+    background-repeat: no-repeat; /*Убираем повтор изображения*/   
+    background-position: right; /*Позиционируем*/   
+    outline: 0; /*убираем стандартную обводку браузера*/  
+    border: 1px solid #aaadaf; 
+    -moz-border-radius: 3px; /*закругляем углы для Mozilla*/  
+    -webkit-border-radius: 3px; /*закругляем углы для Chrome, Safari*/   
+    border-radius: 3px; /*закругляем углы для остальных браузеров*/  
     padding: 0;
+    padding-left: 3px; /*отступ слева от ввода, чтобы текст не был на картинке(выбирать по размеру картинки)*/
+    padding-right: 25px; 
     width: 200px;
     height: 24px;
 }
