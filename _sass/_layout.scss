@@ -101,6 +101,22 @@ img[src*="#thumbnail"] {
 /**
  * override column size for mobile
  */
+
+ @media (max-width: 634px){
+    .nav-bar {
+        flex-direction: column;
+        justify-content: center;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+    .navbar{
+        margin-left: 0;
+    }
+    .search-person{
+        margin: 0;
+    }
+ }
+
 @media (max-width: 30.0rem) {
     .row .column.column-33, .row .column.column-34, .row .column.column-25 {
         flex: 0 0 100%;
@@ -131,7 +147,13 @@ img[src*="#thumbnail"] {
     .search-person{
         margin: 0;
         width: 100%;
-        align-content: center;
+    }
+}
+
+@media (max-width: 220px){
+    .search-person{
+        margin: 0;
+        width: 100%;
     }
     .search-field{
         width: 100%;
