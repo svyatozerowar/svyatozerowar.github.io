@@ -3,8 +3,8 @@ layout: post
 title:  "Бомбин Иван Семенович"
 yearslife: "(1919)"
 date: 2019-03-24 12:17:10
-preview: /img/BombinIS.jpg
-photo: /img/BombinIS.jpg
+preview: /img/no_photo.png
+photo:
 permalink: BombinIS
 ---
 

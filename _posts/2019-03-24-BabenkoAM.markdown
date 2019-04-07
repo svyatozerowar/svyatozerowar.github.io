@@ -3,8 +3,8 @@ layout: post
 title:  "Бабенко Алексей Митрофанович"
 yearslife: "(1912)"
 date: 2019-03-24 12:17:10
-preview: /img/no_photo.png
-photo:
+preview: /img/BabenkoAM.jpg
+photo: /img/BabenkoAM.jpg
 permalink: BabenkoAM
 ---
 
