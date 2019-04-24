@@ -50,6 +50,19 @@ img[src*="#thumbnail"] {
     margin-left: 22rem;
 }
 
+.logo-text {
+    margin-top: -75px;
+    max-width: 500px;
+}
+
+.p-logo-text {
+    font: italic bold 2rem/2rem 'Times New Roman', Times, serif;
+    color: white;
+    text-align: left;
+    padding-left: 10px;
+    text-shadow: 0 0 8px #000;
+}
+
 .search-person{
     align-content: flex-end;
     margin-right: 2rem;
@@ -123,11 +136,19 @@ a {
         padding-left: 1rem;
         padding-right: 1rem;
     }
-    .navbar{
+    .navbar {
         margin-left: 0;
     }
-    .search-person{
+    .search-person {
         margin: 0;
+    }
+    .logo-text {
+        max-width: 400px;
+        margin-top: -62px;
+    }
+    .p-logo-text {
+        font-size: 1.5rem;
+        line-height: 1.5rem;
     }
  }
 
@@ -162,6 +183,27 @@ a {
         margin: 0;
         width: 100%;
     }
+    .logo-text {
+        max-width: 300px;
+        margin-top: -48px;
+    }
+    .p-logo-text {
+        font-size: 1.2rem;
+        line-height: 1.2rem;
+        padding-left: 5px;
+    }
+}
+
+@media (max-width: 350px){
+    .logo-text {
+        max-width: 250px;
+        margin-top: -42px;
+    }
+    .p-logo-text {
+        font-size: 1rem;
+        line-height: 1rem;
+        padding-left: 5px;
+    }
 }
 
 @media (max-width: 220px){
@@ -171,6 +213,16 @@ a {
     }
     .search-field{
         width: 100%;
+    }
+
+    .logo-text {
+        max-width: 130px;
+        margin-top: -40px;
+    }
+    .p-logo-text {
+        font-size: 0.7rem;
+        line-height: 0.7rem;
+        padding-left: 5px;
     }
 }
 
