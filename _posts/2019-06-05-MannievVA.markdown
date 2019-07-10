@@ -3,8 +3,8 @@ layout: post
 title: "Манниев Василий Алексеевич"
 yearslife: "(1921)"
 date: 2019-06-05 12:03:10
-preview: /img/no_photo.png
-photo:
+preview: /img/MannievVA.jpg
+photo: /img/MannievVA.jpg
 permalink: MannievVA
 ---
 
