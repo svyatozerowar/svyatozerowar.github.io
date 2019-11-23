@@ -3,7 +3,7 @@ layout: post
 title: "Капшин Иван Николаевич"
 yearslife: "(1924)"
 date: 2019-06-01 12:03:10
-preview: /img/no_photo.jpg
+preview: /img/no_photo.png
 photo:
 permalink: KapshinIN
 ---
