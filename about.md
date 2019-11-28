@@ -4,7 +4,9 @@ title: О проекте
 permalink: /about/
 ---
 
-[<img src="/img/3Cx5E1fwhJY.jpg#thumbnail" alt="" title="" style="float: right;">](/img/3Cx5E1fwhJY.jpg)*Все меньше остается ветеранов и тех  
+[<img src="/img/3Cx5E1fwhJY.jpg#img-abt" alt="" title="">](/img/3Cx5E1fwhJY.jpg)
+
+*Все меньше остается ветеранов и тех  
 Кто перенес все тяготы войны.  
 Больше тех, кто не слыхал войны.  
 Все меньше их в рядах помолодевших,  

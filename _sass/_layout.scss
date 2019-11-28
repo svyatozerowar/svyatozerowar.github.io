@@ -30,6 +30,13 @@ img[src*="#thumbnail"] {
     margin-bottom: 20px;
  }
 
+img[src*="#img-abt"] {
+   max-height:200px;
+   float: right;
+   margin-right: 10px;
+   margin-bottom: 20px;
+}
+
 .container, .footer-container {
     padding: 0;
 }
@@ -135,6 +142,12 @@ a {
         justify-content: center;
         padding-left: 1rem;
         padding-right: 1rem;
+    }
+    img[src*="#img-abt"] {
+        max-height:250px;
+        display: block;
+        float: none;
+        margin: 0 auto;
     }
     .navbar {
         margin-left: 0;
